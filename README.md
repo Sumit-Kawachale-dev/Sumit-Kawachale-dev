@@ -37,7 +37,7 @@ MySQL, PostgreSQL
 - Implemented DTO architecture, validation, and exception handling  
 - Added image upload functionality for product management  
 
-👉 (Add your repo link here)](https://github.com/Sumit-Kawachale-dev/ShopEase)
+👉 (https://github.com/Sumit-Kawachale-dev/ShopEase)
 
 ---
 
