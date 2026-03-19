@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Sumit Kawachale
 
-<!--
-**Sumit-Kawachale-dev/Sumit-Kawachale-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | Java | Spring Boot  
+🚀 Passionate about building scalable and production-ready applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **Spring Boot backend projects**
+- 🌱 Learning **Advanced Backend Development & System Design**
+- 💡 Interested in **scalable systems, APIs, and clean architecture**
+- 🎯 Goal: Become a **Backend Engineer in top tech companies**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java, SQL  
+
+**Backend:**  
+Spring Boot, Spring MVC, Spring Data JPA, Hibernate  
+
+**Tools & Technologies:**  
+Git, GitHub, Postman, Maven  
+
+**Database:**  
+MySQL, PostgreSQL  
+
+---
+
+## 🚀 Projects
+
+### 🛒 ShopEase - E-commerce Backend
+- Built scalable REST APIs with pagination, search, and filtering  
+- Implemented DTO architecture, validation, and exception handling  
+- Added image upload functionality for product management  
+
+👉 (Add your repo link here)](https://github.com/Sumit-Kawachale-dev/ShopEase)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: ( https://www.linkedin.com/in/sumit-kawachale-3aa8643b3 ) 
+- GitHub: (https://github.com/Sumit-Kawachale-dev/Sumit-Kawachale-dev) 
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving backend problems and optimizing system performance 🚀
