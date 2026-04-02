@@ -4,7 +4,6 @@
 🚀 Passionate about building scalable and production-ready applications  
 
 ---
-
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on **Spring Boot backend projects**
